@@ -3140,6 +3140,7 @@ markers:
   - {type: page-break, offset: 5228, content: '', id: KR5a0143_YP-C_15kuiji-02-0102a, image: JY175/15kuiji-02-0102a.png}
   - {type: page-break, offset: 5228, content: '', id: KR5a0143_YP-C_15kuiji-02-0102b, image: JY175/15kuiji-02-0102b.png}
   - {type: punctuation, offset: 5234, content: (, id: KR5a0143_krp_004-bkkpn1}
+  - {type: voice, offset: 5234, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 5237, content: /, id: KR5a0143_krp_004-bkkpn2}
   - {type: variant, offset: 5237, length: 1, content: 月, CK-KZ: ''}
   - {type: variant, offset: 5237, length: 1, content: 月, CK-KZ-jye: ''}
@@ -3370,6 +3371,7 @@ markers:
   - {type: variant, offset: 5595, length: 0, content: '', CK-KZ-jye: 凡}
   - {type: variant, offset: 5595, length: 0, content: '', YP-C: 凡}
   - {type: punctuation, offset: 5597, content: (, id: KR5a0143_krp_004-bkkpn4}
+  - {type: voice, offset: 5597, length: 11, name: note, id: n2}
   - {type: punctuation, offset: 5603, content: /, id: KR5a0143_krp_004-bkkpn5}
   - {type: punctuation, offset: 5608, content: ), id: KR5a0143_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 5608, content: '
@@ -4628,4 +4630,4 @@ markers:
   - {type: variant, offset: 7795, length: 0, content: '', YP-C: 悟眞篇者紫陽眞人成道之後作而授石杏林之文也若夫藥物火候運用抽添在於詩中盡其玄旨矣外有西江月詞一十二首贈白龍洞劉道人歌一篇讀參同契一章及歌頌樂府等續集於後名曰悟眞篇外集盡性至命了生死超陰陽悉備於此矣雖老君世尊復出傳道授人亦無過此書之妙也紫賢眞人辥道光再拜謹題}
   - {type: page-break, offset: 7795, content: '', id: KR5a0143_YP-C_15kuiji-02-0110a, image: JY175/15kuiji-02-0110a.png}
   back: []
-hash: sha256:02c44ec9fed783c6706d981095669a90ada612377814573a5a143fdadc645402
+hash: sha256:a5bfd58b7777805d531f6531f7cb2d57c59e8f85d46506a31ea43d127615dc10
