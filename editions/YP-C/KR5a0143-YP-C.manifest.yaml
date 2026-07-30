@@ -24,13 +24,13 @@ entity_encoding:
 assets:
   parts:
   - {seq: 0, filename: KR5a0143_000-YP-C.yaml, hash: 'sha256:21e53c8af961826f10f1db068774c802c421c7553597a1517d85848501f89c9c'}
-  - {seq: 1, filename: KR5a0143_001-YP-C.yaml, hash: 'sha256:118610508ad93f3c12002b1733ad1224e2150e33677fe3d5b869655e0cc1832f'}
+  - {seq: 1, filename: KR5a0143_001-YP-C.yaml, hash: 'sha256:6b892697d1452a5bb48dd929f7560b1183c7aa92f23de94bb33a73a7851576d1'}
   - {seq: 2, filename: KR5a0143_002-YP-C.yaml, hash: 'sha256:66a74defb969d60f0d2a278bb046b09c3a3830562a5e749e1a81a838fcad0b97'}
   - {seq: 3, filename: KR5a0143_003-YP-C.yaml, hash: 'sha256:b58b9c2185ab170863e4a6f90c793241b7623a4c52f4a2b2cfd4db99d497c880'}
   - {seq: 4, filename: KR5a0143_004-YP-C.yaml, hash: 'sha256:3df14c3fdc6eb18c87d4a4d24e39b39f02faab4212c8f6753af90f0291b323e8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR5a0143_000-YP-C.markers.yaml, hash: 'sha256:6c2f443b8194e657160f3b5ee2abb357d39ae0f9ad9cc06db4cf0d96d5f32eb3'}
-  - {seq: 1, role: markers, filename: assets/KR5a0143_001-YP-C.markers.yaml, hash: 'sha256:5ff4ecc848d0d61486704ae41053d99726bbd07f22e9962f13045b2789fd4b87'}
+  - {seq: 1, role: markers, filename: assets/KR5a0143_001-YP-C.markers.yaml, hash: 'sha256:9b04ac602c7a5fe6aa70c47e735be0d7a925a30a2be483ce8436c001a0267422'}
   - {seq: 2, role: markers, filename: assets/KR5a0143_002-YP-C.markers.yaml, hash: 'sha256:3d4be789639e2bb19d7df77f11859e1f67da816b08ab8294f6656a024047cac6'}
   - {seq: 3, role: markers, filename: assets/KR5a0143_003-YP-C.markers.yaml, hash: 'sha256:1e0b3340a9782d3a1dda44a03bdb8444b859ea13c53bd968fc01d762dd434860'}
   - {seq: 4, role: markers, filename: assets/KR5a0143_004-YP-C.markers.yaml, hash: 'sha256:535cc3f7d3b6e76e6eee8735b82e41723b982a1fa182427172b400aa8707baa3'}
@@ -50,8 +50,8 @@ table_of_contents:
     marker_id: KR5a0143_YP-C_15kuiji-02-0003b
     span:
     - body
-    - 0
-    - 8492
+    - 210
+    - 8702
   label: juan 001
   type: section
   level: 1
@@ -85,4 +85,4 @@ table_of_contents:
   label: juan 004
   type: section
   level: 1
-hash: sha256:cbc8cd7f66f94ff486451b9f8a1f9c7d3fe8b72368d63a49d5ce4456bb080a65
+hash: sha256:5b1436c1cb78d6a5e8c44bb7d6c9d661c8028b23a4d2950d923791f23511a9a0
